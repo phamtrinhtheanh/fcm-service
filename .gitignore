@@ -1,0 +1,21 @@
+# Sensitive Firebase credentials
+firebase-service-account.json
+*.key
+*.pem
+*.p12
+*.jks
+
+# Compile and build outputs
+target/
+*.class
+*.log
+dependency-reduced-pom.xml
+
+# IDE configuration files
+.idea/
+*.iml
+.DS_Store
+.settings/
+.project
+.classpath
+.factorypath

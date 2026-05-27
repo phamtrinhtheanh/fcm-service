@@ -1,0 +1,5 @@
+target/
+Dockerfile
+docker-compose.yml
+init_db.sql
+.dockerignore
