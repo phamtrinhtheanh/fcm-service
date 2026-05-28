@@ -43,7 +43,7 @@ device:
 
 firebase:
   project-id: my-top-noti-project
-  credentials-path: /home/anhptt/Videos/app-noti/backend/firebase-service-account.json
+  credentials-path: ./firebase-vtmannew-service-account.json
 
 kafka:
   consumer:
